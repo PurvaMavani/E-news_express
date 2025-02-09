@@ -16,20 +16,6 @@ ENews Express is a machine learning project aimed at detecting fake news article
 - **NLP Techniques**: TF-IDF, Stopword Removal, Tokenization
 - **Development Environment**: Jupyter Notebook
 
-## 🚀 Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ENews-Express.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd ENews-Express
-   ```
-3. Run the Jupyter Notebook to explore the project:
-   ```bash
-   jupyter notebook
-   ```
-
 ## 📊 Dataset
 - The dataset consists of labeled news articles categorized as real or fake.
 - Features are extracted using NLP techniques to train classification models.
