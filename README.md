@@ -45,7 +45,7 @@ Contributions are welcome! Feel free to fork this repository, create a new branc
 This project is licensed under the MIT License.
 
 ## 📩 Contact
-For any queries, reach out via [LinkedIn](https://www.linkedin.com/in/purva-mavani/) or open an issue in the repository.
+For any queries, reach out via [LinkedIn](https://www.linkedin.com/in/purva-mavani-927128174/) or open an issue in the repository.
 
 Happy Coding! 🚀
 
